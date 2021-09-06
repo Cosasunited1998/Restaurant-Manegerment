@@ -1,0 +1,13 @@
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\SQL Sever 2017\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
